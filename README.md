@@ -1,4 +1,4 @@
-### Hi there 👋
+### Christopher Rintjema
 
 <!--
 **chrisd2l/chrisd2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
