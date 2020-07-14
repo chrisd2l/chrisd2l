@@ -1,5 +1,6 @@
 ### Christopher Rintjema
-testing
+
+This is some text at the top of my profile
 <!--
 **chrisd2l/chrisd2l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
